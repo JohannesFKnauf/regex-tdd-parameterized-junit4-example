@@ -1,0 +1,4 @@
+# Eclipse internal files
+/.classpath
+/.project
+/.settings/
